@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/90542/AndroidStudioProjects/ChatExample/app/src/main/res/drawable/bg_edit_text.xml" value="0.2520833333333333" />
+        <entry key="..\:/Users/90542/AndroidStudioProjects/ChatExample/app/src/main/res/drawable/bg_receiver.xml" value="0.134375" />
+        <entry key="..\:/Users/90542/AndroidStudioProjects/ChatExample/app/src/main/res/drawable/bg_sender.xml" value="0.134375" />
+        <entry key="..\:/Users/90542/AndroidStudioProjects/ChatExample/app/src/main/res/drawable/ic_about.xml" value="0.2520833333333333" />
+        <entry key="..\:/Users/90542/AndroidStudioProjects/ChatExample/app/src/main/res/drawable/ic_facebook_24.xml" value="0.2520833333333333" />
+        <entry key="..\:/Users/90542/AndroidStudioProjects/ChatExample/app/src/main/res/drawable/ic_group.xml" value="0.2520833333333333" />
+        <entry key="..\:/Users/90542/AndroidStudioProjects/ChatExample/app/src/main/res/drawable/ic_help_web_button.xml" value="0.2520833333333333" />
+        <entry key="..\:/Users/90542/AndroidStudioProjects/ChatExample/app/src/main/res/drawable/ic_helpp.xml" value="0.2520833333333333" />
+        <entry key="..\:/Users/90542/AndroidStudioProjects/ChatExample/app/src/main/res/drawable/ic_whatsapp.xml" value="0.2520833333333333" />
+        <entry key="..\:/Users/90542/AndroidStudioProjects/ChatExample/app/src/main/res/drawable/round_shape.xml" value="0.2520833333333333" />
+        <entry key="..\:/Users/90542/AndroidStudioProjects/ChatExample/app/src/main/res/drawable/save_btn_bg.xml" value="0.2520833333333333" />
+        <entry key="..\:/Users/90542/AndroidStudioProjects/ChatExample/app/src/main/res/drawable/setting_linear_bg.xml" value="0.2520833333333333" />
+        <entry key="..\:/Users/90542/AndroidStudioProjects/ChatExample/app/src/main/res/layout/activity_chat_detail.xml" value="0.264" />
+        <entry key="..\:/Users/90542/AndroidStudioProjects/ChatExample/app/src/main/res/layout/activity_group_chat.xml" value="0.2359375" />
+        <entry key="..\:/Users/90542/AndroidStudioProjects/ChatExample/app/src/main/res/layout/activity_main.xml" value="0.221875" />
+        <entry key="..\:/Users/90542/AndroidStudioProjects/ChatExample/app/src/main/res/layout/activity_settings.xml" value="0.2359375" />
+        <entry key="..\:/Users/90542/AndroidStudioProjects/ChatExample/app/src/main/res/layout/activity_sign_in.xml" value="0.2359375" />
+        <entry key="..\:/Users/90542/AndroidStudioProjects/ChatExample/app/src/main/res/layout/activity_sign_up.xml" value="0.2359375" />
+        <entry key="..\:/Users/90542/AndroidStudioProjects/ChatExample/app/src/main/res/layout/fragment_call.xml" value="0.2359375" />
+        <entry key="..\:/Users/90542/AndroidStudioProjects/ChatExample/app/src/main/res/layout/fragment_chat.xml" value="0.2359375" />
+        <entry key="..\:/Users/90542/AndroidStudioProjects/ChatExample/app/src/main/res/layout/fragment_status.xml" value="0.2359375" />
+        <entry key="..\:/Users/90542/AndroidStudioProjects/ChatExample/app/src/main/res/layout/main_activity2.xml" value="0.2359375" />
+        <entry key="..\:/Users/90542/AndroidStudioProjects/ChatExample/app/src/main/res/layout/main_fragment.xml" value="0.2359375" />
+        <entry key="..\:/Users/90542/AndroidStudioProjects/ChatExample/app/src/main/res/layout/sample_receiver.xml" value="0.11822916666666666" />
+        <entry key="..\:/Users/90542/AndroidStudioProjects/ChatExample/app/src/main/res/layout/sample_reciever.xml" value="0.4" />
+        <entry key="..\:/Users/90542/AndroidStudioProjects/ChatExample/app/src/main/res/layout/sample_sender.xml" value="0.536" />
+        <entry key="..\:/Users/90542/AndroidStudioProjects/ChatExample/app/src/main/res/layout/sample_show_user.xml" value="0.2359375" />
+        <entry key="..\:/Users/90542/AndroidStudioProjects/ChatExample/app/src/main/res/menu/menu.xml" value="0.2359375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
